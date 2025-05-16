@@ -1,5 +1,3 @@
-
- 
 #!/bin/bash
  
 # Start dummy HTTP server to keep Render Web Service alive
